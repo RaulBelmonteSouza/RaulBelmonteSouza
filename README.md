@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaulBelmonteSouza.
 - 👀 I’m interested in programming and music.
-- 🌱 I’m currently learning angular and spring rest.
+- 🌱 I’m currently learning JUnit and Design Patterns.
 - 💞️ I’m looking to collaborate on api development.
 - 📫 How to reach me: Send a email to raulbelmontedesouza@gmail.com.
 
